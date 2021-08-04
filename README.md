@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StefanH65
-- 👀 I’m interested in learning Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in learning Python, PHP and Javascript
+- 🌱 I’m currently learning Python, PHP and Javascript
 - 💞️ I’m looking to collaborate on beginnner open source projects
 - 📫 How to reach me ... stefanholder@outlook.com
 
